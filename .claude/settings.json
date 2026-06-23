@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/user/react/software-estimation-frontend/estimation-bias/src/forms/**)"
+    ]
+  }
+}
