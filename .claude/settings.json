@@ -1,7 +1,19 @@
 {
   "permissions": {
     "allow": [
-      "Read(//Users/user/react/software-estimation-frontend/estimation-bias/src/forms/**)"
+      "Read(//Users/user/react/software-estimation-frontend/estimation-bias/src/forms/**)",
+      "Read(//Users/user/react/dugam-backend/models/**)",
+      "Read(//Users/user/react/mern-stack-crud-application-Orie2.0/src/api/**)",
+      "Read(//Users/user/react/dugam-backend/utilities/**)",
+      "Read(//Users/user/react/mern-stack-crud-application-Orie2.0/src/authentication/**)",
+      "Read(//Users/user/react/dugam-backend/middleware/**)",
+      "Read(//Users/user/react/dugam-backend/routes/**)",
+      "Read(//Users/user/react/mern-stack-crud-application-Orie2.0/src/menu/**)",
+      "Read(//Users/user/react/mern-stack-crud-application-Orie2.0/public/**)",
+      "Read(//Users/user/react/dugam-backend/controllers/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/user/react/mern-stack-crud-application-Orie2.0/src/components/modals"
     ]
   }
 }
